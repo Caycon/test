@@ -1,0 +1,56 @@
+declare -gx REPLIT_PID1_VERSION=0.0.0-d52b457
+declare -gx SSL_CERT_FILE=/etc/ssl/certs/ca-certificates.crt
+declare -gx XDG_CACHE_HOME=/home/runner/boilerplate-project-stockchecker/.cache
+declare -gx NIX_PS1='\[\033[01;34m\]\w\[\033[00m\]\$ '
+declare -gx HOME=/home/runner
+declare -gx LOCALE_ARCHIVE=/usr/lib/locale/locale-archive
+declare -gx REPL_PUBKEYS='{"crosis-ci":"7YlpcYh82oR9NSTtSYtR5jDL4onNzCGJGq6b+9CuZII=","crosis-ci:1":"7YlpcYh82oR9NSTtSYtR5jDL4onNzCGJGq6b+9CuZII=","crosis-ci:latest":"7YlpcYh82oR9NSTtSYtR5jDL4onNzCGJGq6b+9CuZII=","prod":"tGsjlu/BJvWTgvMaX7acuUb7AO1dXOrRiuk7y083RFE=","prod:1":"tGsjlu/BJvWTgvMaX7acuUb7AO1dXOrRiuk7y083RFE=","prod:2":"8uGN+vfszlnV93/HCSHlVLG0xddMlPkir1Ni4JKT4+w=","prod:3":"9+MCOSHQSQlcodXoot8dC8NLhc862nLkx1/VMsbY2h8=","prod:4":"8uGN+vfszlnV93/HCSHlVLG0xddMlPkir1Ni4JKT4+w=","prod:5":"9+MCOSHQSQlcodXoot8dC8NLhc862nLkx1/VMsbY2h8=","prod:latest":"tGsjlu/BJvWTgvMaX7acuUb7AO1dXOrRiuk7y083RFE=","vault-goval-token":"D5jJoMx1Ml54HM92NLgXl+MzptwDqbSsfyFG6f52g9E=","vault-goval-token:1":"D5jJoMx1Ml54HM92NLgXl+MzptwDqbSsfyFG6f52g9E=","vault-goval-token:latest":"D5jJoMx1Ml54HM92NLgXl+MzptwDqbSsfyFG6f52g9E="}'
+declare -gx REPLIT_CLUSTER=pike
+declare -gx REPL_OWNER=vinhnguyen07072
+declare -gx REPLIT_DOMAINS=b14710ee-1b4d-417d-90f3-08606d09cd3e-00-199cwcbjeih93.pike.replit.dev
+declare -gx COLORTERM=truecolor
+declare -gx NODE_EXTRA_CA_CERTS=/etc/ssl/certs/ca-certificates.crt
+declare -gx HOSTNAME=7f705c40e54c
+declare -gx DENO_TLS_CA_STORE=system
+declare -gx GIT_EDITOR=replit-git-editor
+declare -gx PROMPT_DIRTRIM=2
+declare -gx NIXPKGS_ALLOW_UNFREE=1
+declare -gx DIRENV_CONFIG=/etc/direnv
+declare -gx LIBGL_DRIVERS_PATH=/nix/store/zxhjnh2d440bhli0zck18s10hcq07qpp-mesa-24.2.2-drivers/lib/dri
+declare -gx REPLIT_DB_URL=https://kv.replit.com/v0/eyJhbGciOiJIUzUxMiIsImlzcyI6ImNvbm1hbiIsImtpZCI6InByb2Q6MSIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJjb25tYW4iLCJleHAiOjE3MzIyOTAxNTAsImlhdCI6MTczMjE3ODU1MCwiZGF0YWJhc2VfaWQiOiJiMTQ3MTBlZS0xYjRkLTQxN2QtOTBmMy0wODYwNmQwOWNkM2UifQ.Fi11kAixEci8WYEbV6PLBDx4YqLuINPNtw1dO6ShWxJqqxTv8jWN9iPV9ywAnp5_192KRD7hrAULcSzont_9fw
+declare -gx REPL_IDENTITY=v2.public.Q2lSaU1UUTNNVEJsWlMweFlqUmtMVFF4TjJRdE9UQm1NeTB3T0RZd05tUXdPV05rTTJVU0QzWnBibWh1WjNWNVpXNHdOekEzTWhvZ1ltOXBiR1Z5Y0d4aGRHVXRjSEp2YW1WamRDMXpkRzlqYTJOb1pXTnJaWElpSkdJeE5EY3hNR1ZsTFRGaU5HUXROREUzWkMwNU1HWXpMVEE0TmpBMlpEQTVZMlF6WlRpc2lZY1NXaE1LQkhCcGEyVVNDMmx1ZEdWeVlXTjBhWFpsQJA9_MGZk3ZquCILrw2pIjgnzE02mhMC6G1QzzwEEPEgEBcFTvbLVcXu5flU5J0JCao9pEymw2mcHMkBlDL1Bw.R0FFaUJtTnZibTFoYmhLV0NIWXlMbkIxWW14cFl5NVJNbVI2VTFSVmNsWkVaREZWVm14U1pHczVNV1F3YUc5VFZYaEVWRWRLWVZwNlpIWlNNRlpSVmtoV2VsRnFVbWhSVjJodVVtdGtjRmRWZEV0U01HdzBWR3RTYW1WRk1VaFdiWGhOVmtWYWNGUnJaRkprUlRWRlVsUk9ZVkY2UVRGVVZXUmFaV3Q0VlZGVVVrOWhhMFY1VjJ0U1FrNVdhM2xWV0hCaFZXMDVVMUpYWXpWTmJVWllUbGM1YVdKWFVYaGFWbVJYWkZVeFJWa3paRTlsYTJ4b1VXeFNjR015YkZwWk1VNUlXakZzY0ZGcmFFTmpSMFY1VmxkR1JWVXlPVTFaVm1NeFRVWndXVk50YUZwTk1VcDNXa2N4Vm1GVk5WaGpNMnhOWW10SmVGZFhNVFJqUm13MVRsUmFVbFl5ZHpGVldIQkxaRlp3Tm1FemJGWmlWRlpZVlROd2IwMXRWbk5oUlhSVlpXMW9SRmx0ZEZaTlJtOTNUbFpPYW1FeGNHaFhWbEp2VlZaU1JscDZTbGRoZWtFeFdWWldSMWQxWlVrd2VVbE1XbmRFVVZwc1VVSlVNRjk1WjNGbFJDMDFYMGxzUTJKaFpuTkVRMjFyWms1a1lXcERabTlMWVhOVlVYaDFXVmd6VEhKUlpFSlVUbU5PY1ZCeFpFdDJla2hSUld0SWVqZGFMVTVEWms1UmR5NVNNRVpHWVZWS2RGUnVXbWxpVkVadldXMW9UVmxyUm5WWFdHeE5ZbXRKZUZkWE1UUmpSbXcxVGxaS1RtSldTVEpXVkVaclRVZFdkRk5zV2xSaWJrSlhWbTB4TkZVeFVuSlZiVVpPVm01Q1YxVXlkRTlXUmxwWllVVldWbVZyU25KVmFrRXhVMVpHY2xOc1drNVNiSEJUVm0xd1QxbFhVbGRpTTJoVFlsZG9VMVpxU205a1ZsWllaRWQwYVdKRk5WaFphMVpQVm0xS1ZXSkZWbFpoYTBwSVdrZDRjMVpzU25WU2JFcFhWbGhDU2xZeWNFTmpNV1J6VW14b2FGTkdjRk5VVldSVFVURmFSMXBGWkZKaVZWcEpWMnRWZUZVd01YUlZhM1JYVFZaYVZGVlVTa3BrTVZKeVlVWktWMkV4Y0haV1ZscHJZakpLYzFSdVNtbFRSVnBZV1cxMGQxUXhiRmRWYkdST1RWaENTRmRyVmpCaGF6RnlWMnhzVjFKdGFGaFdSRVpoWkVkV1NXTkdaRmRpVmtwSlZrWlNTMVF5VFhsVGFscFdZWHBzV0ZSWGVFdGlNVmw1VFZSU1ZFMXJXa2RVVmxaclZrZEtSbGRzV2xwV2VrVXdWMVphYzA1c1JsVlNiWEJwVWxoQ05sWkVSbGRaVjBWNVUyeHNWbFpGV2xkWmExcGhZMnh3U0dWRldteFNia0pHVmpJeGQyRkhSWGhqUnpsWFlXdGFWRlY2Ums1bFJscHpVMnhHVjFKRlNqTldNblJoVjIxT2RHTkZNVkJYUlRSNldrVldXazVXY0VWU1dGSnBZbFJXVVZRd1pHRlZiVXBZWVVSS1ZGSldjSGhXYTFaeVpFZFNSV0ZGY0dsaVZuQlJWMFJKZUZaVk1YUlplbEpxVjBoQ1JsVnJaRlpPUmxwRllrWlNhRTFXU2paWGJYaHZZbGRXY21KNlFsaFdWVEUyVjIxemQyVnNaRlpPV0VwVVZrZFNXVmRYYTNkT1ZrcHlWVzA1VDJGVVJreFVha2sxVWtWNGMxTllaRk5oTVhCdlZteFdkMDFHV2toT1YwWm9WakJ3VmxWdE1EVlhiVXBZVldwS1ZtRnJjRkJWTVZwUFpGWmtkRkpzVGxObGJXY3c
+declare -gx REPLIT_PID1_FLAG_NIXMODULES_BEFORE_REPLIT_NIX=1
+declare -gx REPLIT_RTLD_LOADER=1
+declare -gx REPL_OWNER_ID=37864620
+declare -gx REPLIT_PID1_FLAG_REPLIT_RTLD_LOADER=1
+declare -gx npm_config_prefix=/home/runner/boilerplate-project-stockchecker/.config/npm/node_global
+declare -gx NIX_PROFILES='/nix/var/nix/profiles/default /home/runner/.nix-profile'
+declare -gx REPL_IDENTITY_KEY=k2.secret.liRIFP0QrQBPBY-7k9jMAvLxxQGSOIPNxqxf69Mcf0TMCLILaeD3ZGdUry_Nck7wGcTiA1GsVlrw8sfpUz2IBg
+declare -gx REPLIT_DEV_DOMAIN=b14710ee-1b4d-417d-90f3-08606d09cd3e-00-199cwcbjeih93.pike.replit.dev
+declare -gx USER=runner
+declare -gx REPL_LANGUAGE=nix
+declare -gx REPLIT_CLI=/nix/store/nfqadw3ssa8ggqf256993x2app0mzd95-pid1-0.0.1/bin/replit
+declare -gx REPLIT_BASHRC=/nix/store/vxzp0jk1x0l6w6v1xhq7fi9rrw2jf2zj-replit-bashrc/bashrc
+declare -gx __EGL_VENDOR_LIBRARY_FILENAMES=/nix/store/zxhjnh2d440bhli0zck18s10hcq07qpp-mesa-24.2.2-drivers/share/glvnd/egl_vendor.d/50_mesa.json
+declare -gx REPLIT_ENVIRONMENT=production
+declare -gx REPLIT_SUBCLUSTER=interactive
+declare -gx REPLIT_NIX_CHANNEL=stable-24_05
+declare -gx REPL_IMAGE=gcr.io/marine-cycle-160323/nix:bf8590a3e2f0a8b70b7ca175eeed9074dffbfca9
+declare -gx GIT_ASKPASS=replit-git-askpass
+read -r _new_path <<< "/nix/store/gjniy215m60fq1ix0yh026ss8gfgcq69-npx/bin:/home/runner/boilerplate-project-stockchecker/.config/npm/node_global/bin:/home/runner/boilerplate-project-stockchecker/node_modules/.bin:/nix/store/5kk9h132i0cppcnqfsq06shjdxk1jm5j-nodejs-20.16.0-wrapped/bin:/nix/store/fh0f4kfdzz1n733qqc82lyhn0ay753jm-bun-1.1.34/bin:/nix/store/0r10s324j8flxf8p70h3d9d1bzs1hzpm-pnpm-9.9.0/bin:/nix/store/gjym9dkyscad5xjxv1pnq3dv7256ngfc-yarn-1.22.22/bin:/nix/store/zmka8ia4s3ssab264js8yppk02lp6lz4-prettier-3.3.3/bin:/nix/store/n5q6yk1naynvf18v220d8fsvdzwardg2-pid1/bin:/nix/store/gxva6gzqwvaxg1m8y5r4cwbjbd8gk1yz-replit-runtime-path/bin:/home/runner/.nix-profile/bin:/home/runner/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin"
+#PATH=/nix/store/gjniy215m60fq1ix0yh026ss8gfgcq69-npx/bin:/home/runner/boilerplate-project-stockchecker/.config/npm/node_global/bin:/home/runner/boilerplate-project-stockchecker/node_modules/.bin:/nix/store/5kk9h132i0cppcnqfsq06shjdxk1jm5j-nodejs-20.16.0-wrapped/bin:/nix/store/fh0f4kfdzz1n733qqc82lyhn0ay753jm-bun-1.1.34/bin:/nix/store/0r10s324j8flxf8p70h3d9d1bzs1hzpm-pnpm-9.9.0/bin:/nix/store/gjym9dkyscad5xjxv1pnq3dv7256ngfc-yarn-1.22.22/bin:/nix/store/zmka8ia4s3ssab264js8yppk02lp6lz4-prettier-3.3.3/bin:/nix/store/n5q6yk1naynvf18v220d8fsvdzwardg2-pid1/bin:/nix/store/gxva6gzqwvaxg1m8y5r4cwbjbd8gk1yz-replit-runtime-path/bin:/home/runner/.nix-profile/bin:/home/runner/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin
+if [ -e "/run/replit/env/last" ]; then read -r _last_path < <(\grep '^#PATH=' /run/replit/env/last | cut -f 2 -d =); fi
+_user_components="$(\tr : $'\n' <<< "${PATH:-}" |\grep -xv -f <(\tr : $'\n' <<< "${_last_path}") |\tr $'\n' :)"
+declare -gx PATH="${_user_components}${_new_path}"
+declare -gx DISPLAY=:0
+declare -gx LANG=en_US.UTF-8
+declare -gx REPL_ID=b14710ee-1b4d-417d-90f3-08606d09cd3e
+declare -gx XDG_CONFIG_HOME=/home/runner/boilerplate-project-stockchecker/.config
+declare -gx REPL_HOME=/home/runner/boilerplate-project-stockchecker
+declare -gx REQUESTS_CA_BUNDLE=/etc/ssl/certs/ca-certificates.crt
+declare -gx XDG_DATA_HOME=/home/runner/boilerplate-project-stockchecker/.local/share
+declare -gx REPLIT_LD_AUDIT=/nix/store/n5x1kgbz8zjh63ymsijbislyi1n1hir6-replit_rtld_loader-1/rtld_loader.so
+declare -gx NIX_PATH=nixpkgs=/home/runner/.nix-defexpr/channels/nixpkgs-stable-24_05:/home/runner/.nix-defexpr/channels
+declare -gx REPL_SLUG=boilerplate-project-stockchecker
+declare -gx DOCKER_CONFIG=/home/runner/boilerplate-project-stockchecker/.config/docker
+declare -gx REPLIT_RIPPKGS_INDICES=/nix/store/73awzgwmrga8y0dl84cp30h40965wyk5-rippkgs-indices
